@@ -1,0 +1,2 @@
+make this to open password is alaways password this is a virus that make loops to open google chrome and your computer is not responding  to make the viurs work click on Search in the Taskbar and enter task scheduler in the search box. In the results, click Task Scheduler to open the app. In the right panel, under Actions, click on Create Basic Task. Give the task a descriptive name and then click on Next then selcet when the computer starts and selcet start a program then add the viurs program
+this is a virus i don't joke
